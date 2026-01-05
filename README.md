@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/abhishekboadgurjar/abhishek-blog.git
+   git clone https://github.com/abhishekgurjarin/abhishek-blog.git
    cd abhishek-blog
    ```
 
@@ -95,4 +95,4 @@ Contributions are welcome! Please fork this repository, create a new branch, and
 
 ## Author
 
-**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekboadgurjar).
+**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekgurjarin).
